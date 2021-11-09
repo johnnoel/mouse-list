@@ -1,12 +1,12 @@
 const path = require('path');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-const { WebpackManifestPlugin } = require('webpack-manifest-plugin');
+const HtmlWebpackPlugin = require('html-webpack-plugin');
+//const { WebpackManifestPlugin } = require('webpack-manifest-plugin');
 
 module.exports = {
     entry: {
-        main: path.resolve(__dirname, 'index.tsx'),
-        head: path.resolve(__dirname, 'head.ts'),
+        main: path.resolve(__dirname, '../src/index.tsx'),
     },
     module: {
         rules: [
@@ -49,16 +49,12 @@ module.exports = {
     },
     resolve: {
         extensions: [ '.ts', '.tsx', '.js', '.jsx' ],
-        alias: {
-            react: 'preact/compat',
-            'react-dom': 'preact/compat',
-        }
     },
     output: {
         filename: '[name].[contenthash].js',
         chunkFilename: '[id].[contenthash].js',
-        path: path.resolve(__dirname, '../public/build/'),
-        publicPath: '/build/',
+        path: path.resolve(__dirname, '../assets/'),
+        publicPath: '/assets/',
     },
     plugins: [
         new CleanWebpackPlugin(),
@@ -67,6 +63,10 @@ module.exports = {
             chunkFilename: '[id].[contenthash].css',
             ignoreOrder: false,
         }),
-        new WebpackManifestPlugin(),
+        new HtmlWebpackPlugin({
+            filename: '../index.html',
+            template: path.resolve(__dirname, '../src/index.html'),
+        }),
+        //new WebpackManifestPlugin(),
     ],
 };

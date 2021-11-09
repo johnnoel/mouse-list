@@ -1,0 +1,12 @@
+{
+  "extends": "@tsconfig/recommended/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "assets/",
+    "sourceMap": true,
+    "jsx": "react-jsx",
+    "resolveJsonModule": true,
+    "module": "ESNext",
+    "moduleResolution": "Node"
+  },
+  "include": [ "./src" ],
+}
