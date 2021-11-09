@@ -1,0 +1,16 @@
+{
+  "name": "mouse-list",
+  "version": "0.0.1",
+  "description": "Mouse capability list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mouse",
+    "mice",
+    "list"
+  ],
+  "author": "John Noel <chaostangent@gmail.com>",
+  "license": "MIT"
+}
