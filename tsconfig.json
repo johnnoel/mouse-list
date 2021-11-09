@@ -5,7 +5,7 @@
     "sourceMap": true,
     "jsx": "react-jsx",
     "resolveJsonModule": true,
-    "module": "ESNext",
+    "module": "CommonJS",
     "moduleResolution": "Node"
   },
   "include": [ "./src" ],

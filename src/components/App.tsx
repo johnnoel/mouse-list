@@ -1,13 +1,22 @@
-import React from 'react';
+import DataTable from './DataTable';
 
 const App = () => (
-    <table>
-        <tbody>
-        <tr>
-            <td>Data table</td>
-        </tr>
-        </tbody>
-    </table>
+    <div>
+        <div>
+            <select>
+                <option>Brand</option>
+            </select>
+
+            <select>
+                <option>Handedness</option>
+            </select>
+
+            <select>
+                <option>Wireless</option>
+            </select>
+        </div>
+        <DataTable />
+    </div>
 );
 
 export default App;

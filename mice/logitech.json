@@ -33,5 +33,315 @@
     ],
     "handedness": "right",
     "battery": "aa"
+  },
+  {
+    "names": [
+      "M720 Triathlon"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "Logitech Pebble M350"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "MX ERGO"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "M535"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "MX MASTER 3"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "M500s ADVANCED CORDED MOUSE"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "Mouse M100"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "M705 MARATHON"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "B100 OPTICAL USB MOUSE"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "MX ANYWHERE 3"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "M325 WIRELESS MOUSE"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "MX TRAVEL CASE"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "M190 FULL-SIZE WIRELESS MOUSE"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "M235 WIRELESS MOUSE"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "WIRELESS ULTRA PORTABLE M187"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "M330 SILENT PLUS"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "MX MASTER 3 FOR MAC"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "M110 SILENT CORDED MOUSE"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "M171 WIRELESS MOUSE"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "MX ANYWHERE 3 FOR MAC"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "WIRELESS MOUSE M185"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "M280 WIRELESS MOUSE"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "M545 WIRELESS MOUSE"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "M220 SILENT WIRELESS MOUSE"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "LOGITECH DESK MAT - STUDIO SERIES"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "ERGO M575 WIRELESS TRACKBALL FOR BUSINESS"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "LOGI USB-C TO A ADAPTOR"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "LOGI BOLT USB RECEIVER"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "MX ANYWHERE 3 FOR BUSINESS"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "MX MASTER 3 FOR BUSINESS"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "M310 WIRELESS MOUSE"
+    ],
+    "fullsize": true,
+    "wireless": [
+    ],
+    "handedness": "right",
+    "battery": "aa"
   }
 ]
