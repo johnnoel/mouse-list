@@ -1,0 +1,37 @@
+[
+  {
+    "names": [
+      "M590 Multi-Device Silent"
+    ],
+    "fullsize": false,
+    "wireless": [
+      "bluetooth",
+      "unifying"
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  },
+  {
+    "names": [
+      "MX Vertical"
+    ],
+    "fullsize": true,
+    "wireless": [
+      "bluetooth",
+      "unifying"
+    ],
+    "battery": "builtin"
+  },
+  {
+    "names": [
+      "ERGO M575 Wireless Trackball"
+    ],
+    "fullsize": true,
+    "wireless": [
+      "bluetooth",
+      "unifying"
+    ],
+    "handedness": "right",
+    "battery": "aa"
+  }
+]
